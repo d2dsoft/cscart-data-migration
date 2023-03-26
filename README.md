@@ -8,6 +8,7 @@
 - [Drupal Commerce to CS-Cart Migration](https://d2d-soft.com/cs-cart-migration/357-drupal-commerce-to-cs-cart-migration-service.html)
 - [HikaShop to CS-Cart Migration](https://d2d-soft.com/cs-cart-migration/468-1937-hikashop-to-cs-cart-migration-tool.html#/72-entities-1000)
 - [J2Store to CS-Cart Migration](https://d2d-soft.com/cs-cart-migration/511-2132-j2store-to-cs-cart-migration-tool.html#/72-entities-1000)
+- [JigoShop to CS-Cart Migration](https://d2d-soft.com/cs-cart-migration/537-2247-jigoshop-to-cs-cart-migration-tool.html#/72-entities-1000)
 - [Loaded Commerce to CS-Cart Migration](https://d2d-soft.com/cs-cart-migration/311-1322-loaded-to-cs-cart-migration-tool.html#/72-entities-1000)
 - [Magento to CS-Cart Migration](https://d2d-soft.com/cs-cart-migration/312-1327-magento-to-cs-cart-migration-tool.html#/72-entities-1000)
 - [OpenCart to CS-Cart Migration](https://d2d-soft.com/cs-cart-migration/313-1332-opencart-to-cs-cart-migration-tool.html#/72-entities-1000)
@@ -29,6 +30,7 @@
 - [Drupal Commerce](https://drupalcommerce.org/)
 - [HikaShop](https://www.hikashop.com/)
 - [J2Store](https://www.j2store.org/)
+- JigoShop
 - [Loaded Commerce](https://loadedcommerce.com/)
 - [Magento](https://magento.com/)
 - [OpenCart](https://www.opencart.com/)

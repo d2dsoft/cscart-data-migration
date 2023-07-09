@@ -2,6 +2,7 @@
 [CS-Cart Data Migration Tool](https://d2d-soft.com/35-cs-cart-migration) is a solution for migrating data to CS-Cart from another platform. The tool support migrating many entity types (taxes, manufacturers, categories, products, customers, orders, reviews) with many options. The tool can work in the local environment or the online environment. We also provide the [Custom Migration Service](https://d2d-soft.com/migration-services/296-data-migration-customization.html) if you have a specific requirement. 
 
 ## Products
+- [AmeriCommerce to CS-Cart Migration](https://d2d-soft.com/cs-cart-migration/764-7232-americommerce-to-cs-cart-migration-tool.html#/72-entities-1000)
 - [BigCommerce to CS-Cart Migration](https://d2d-soft.com/cs-cart-migration/410-1657-bigcommerce-to-cs-cart-migration-tool.html#/72-entities-1000)
 - [CS-Cart to CS-Cart Migration](https://d2d-soft.com/cs-cart-migration/309-1312-cs-cart-to-cs-cart-migration-tool.html#/72-entities-1000)
 - [CubeCart to CS-Cart Migration](https://d2d-soft.com/cs-cart-migration/310-1317-cubecart-to-cs-cart-migration-tool.html#/72-entities-1000)
@@ -17,6 +18,7 @@
 - [osCommerce to CS-Cart Migration](https://d2d-soft.com/cs-cart-migration/314-1337-oscommerce-to-cs-cart-migration-tool.html#/72-entities-1000)
 - [OXID-eShop to CS-Cart Migration](https://d2d-soft.com/cs-cart-migration/315-1342-oxid-eshop-to-cs-cart-migration-tool.html#/72-entities-1000)
 - [PrestaShop to CS-Cart Migration](https://d2d-soft.com/cs-cart-migration/316-1347-prestashop-to-cs-cart-migration-tool.html#/72-entities-1000)
+- [Salesforce to CS-Cart Migration](https://d2d-soft.com/cs-cart-migration/712-6671-salesforce-to-cs-cart-migration-tool.html#/72-entities-1000)
 - [Shopify to CS-Cart Migration](https://d2d-soft.com/cs-cart-migration/372-1477-shopify-to-cs-cart-migration-tool.html#/72-entities-1000)
 - [VirtueMart to CS-Cart Migration](https://d2d-soft.com/cs-cart-migration/317-1352-virtuemart-to-cs-cart-migration-tool.html#/72-entities-1000)
 - [Volusion to CS-Cart Migration](https://d2d-soft.com/home/635-5868-volusion-to-cs-cart-migration-tool.html#/72-entities-1000)
@@ -28,6 +30,7 @@
 - [ZenCart to CS-Cart Migration](https://d2d-soft.com/cs-cart-migration/322-1377-zencart-to-cs-cart-migration-tool.html#/72-entities-1000)
 
 ## Supported Platforms
+- [AmeriCommerce](https://www.americommerce.com/)
 - [BigCommerce](https://www.bigcommerce.com/)
 - [CS-Cart](https://www.cs-cart.com/)
 - [CubeCart](https://www.cubecart.com/)
@@ -43,6 +46,7 @@
 - [osCommerce](https://www.oscommerce.com/)
 - [OXID-eShop](https://www.oxid-esales.com)
 - [PrestaShop](https://www.prestashop.com)
+- [Salesforce](https://www.salesforce.com/)
 - [Shopify](https://www.shopify.com/)
 - [VirtueMart](https://virtuemart.net/)
 - [Volusion](https://volusion.com/)
